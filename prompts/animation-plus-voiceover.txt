@@ -1,0 +1,75 @@
+Animate the attached creator and product image into a realistic UGC skincare advertisement.
+
+Preserve the creator's exact identity, facial features, hairstyle, skin tone, clothing, and overall appearance.
+
+Preserve the exact LumaSkin Daily Glow Serum bottle, label, proportions, and branding.
+
+The video should feel like a real person casually recording a skincare recommendation on a smartphone.
+
+ACTION:
+
+0–3 seconds:
+The creator looks directly into the camera with a slightly concerned but relatable expression.
+She begins speaking naturally.
+Use subtle facial movement and natural blinking.
+
+3–7 seconds:
+As she talks about her skin, she lightly gestures toward her cheek with her free hand.
+Her expression becomes more positive and conversational.
+
+7–11 seconds:
+She lifts the LumaSkin serum slightly toward the camera, naturally presenting the product.
+The product should remain sharp and recognizable.
+She briefly looks at the product and then back at the camera.
+
+11–15 seconds:
+She lowers the product slightly and gives a small genuine smile while finishing her recommendation.
+End with a natural confident expression.
+
+BODY LANGUAGE:
+natural hand gestures,
+subtle head movement,
+realistic breathing,
+small posture adjustments,
+natural blinking,
+authentic conversational expression.
+
+VOICE:
+young adult female voice,
+warm,
+natural,
+confident,
+relatable,
+slightly enthusiastic,
+conversational,
+not overly polished,
+not announcer-like,
+not exaggerated.
+
+VOICEOVER:
+"I honestly thought my skin was just having a bad week. But after adding this serum to my routine, my skin started looking so much more hydrated. I've been using it every morning, and honestly, I really like it."
+
+CAMERA:
+smartphone-style UGC camera,
+subtle handheld movement,
+very mild natural camera movement,
+medium close-up framing,
+realistic autofocus behavior,
+natural depth of field.
+
+LIGHTING:
+soft natural window light,
+warm neutral environment,
+realistic skin highlights,
+no artificial beauty filter.
+
+IMPORTANT:
+Lip movements must naturally synchronize with the spoken words.
+Facial expressions must match the emotional meaning of each sentence.
+Hand movements must remain anatomically correct.
+The product must not morph, distort, change labels, or disappear.
+Do not introduce additional objects.
+
+Overall result:
+It should look like an authentic skincare creator recording a recommendation for a brand's paid social advertisement, not a traditional television commercial and not an obvious AI-generated video.
+

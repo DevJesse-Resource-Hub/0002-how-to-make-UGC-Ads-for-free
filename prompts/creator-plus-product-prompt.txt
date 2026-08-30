@@ -1,0 +1,56 @@
+Using the two attached reference images, create a single photorealistic UGC advertising scene.
+
+REFERENCE 1 is the exact LumaSkin Daily Glow Serum product.
+REFERENCE 2 is the exact creator whose identity, facial appearance, hairstyle, skin tone, and overall appearance must be preserved.
+
+Do not redesign the product.
+Do not redesign the creator.
+
+Scene:
+The creator is sitting naturally at a clean bathroom vanity in a modern, warm, minimal apartment.
+
+She is holding the LumaSkin Daily Glow Serum naturally in one hand, positioned close enough to the camera that the product is clearly visible while her face remains the primary human focal point.
+
+Her body language should feel like she is genuinely recommending a skincare product to someone watching her phone.
+
+Expression:
+warm, confident, slightly excited, trustworthy.
+
+Pose:
+natural seated posture, relaxed shoulders, one hand holding the serum, the other hand lightly gesturing as if she is explaining why she likes the product.
+
+Environment:
+premium but believable home bathroom/vanity.
+Warm beige and cream tones.
+Soft daylight entering from a nearby window.
+Small mirror and subtle skincare accessories in the background.
+No clutter.
+
+IMPORTANT:
+The product must maintain the exact bottle shape, label design, proportions, colors, and branding from the product reference image.
+
+The creator must maintain the exact facial identity, skin tone, hairstyle, and appearance from the creator reference image.
+
+Make the scene look like an authentic UGC video setup rather than a traditional polished commercial.
+
+Camera:
+vertical-smartphone-video feeling while maintaining a 16:9 final composition.
+Medium close-up framing.
+Slightly imperfect natural perspective.
+Realistic depth of field.
+
+Visual quality:
+photorealistic,
+premium UGC,
+natural skin texture,
+realistic hands,
+realistic product interaction,
+natural lighting,
+commercially usable visual quality.
+
+No additional text.
+No subtitles.
+No logos other than LumaSkin.
+No beauty filters.
+No exaggerated skin effects.
+
