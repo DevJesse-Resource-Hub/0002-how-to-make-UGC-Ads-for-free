@@ -71,4 +71,4 @@ Follow the AI disclosure and advertising rules of whatever platform you publish 
 
 **Resource ID:** `DJ-0002`
 
-**Created by Dev Jesse × DevSilver**
+**Created by Dev Jesse × DevSylva**
