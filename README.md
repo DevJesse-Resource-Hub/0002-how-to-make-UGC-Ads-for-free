@@ -4,7 +4,7 @@
 
 ## 🎥 Watch the Video
 
-[Watch the full video on YouTube](REPLACE_WITH_VIDEO_URL)
+[Watch the full video on YouTube](https://youtu.be/WTn30Lnhsd8)
 
 ---
 
